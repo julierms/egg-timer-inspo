@@ -1,1 +1,1 @@
-# egg-timer-inspo
+Hi, this is an egg timer inspo by Nashallery!
